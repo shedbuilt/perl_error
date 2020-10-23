@@ -1,8 +1,8 @@
 NAME=perl_error
-VERSION=0.17026
-REVISION=1
-SRC=https://www.cpan.org/authors/id/S/SH/SHLOMIF/Error-0.17026.tar.gz
-SRCMD5=0dcd94640f617df02b6d6c1e4e92018c
+VERSION=0.17029
+REVISION=2
+SRC=https://www.cpan.org/authors/id/S/SH/SHLOMIF/Error-0.17029.tar.gz
+SRCMD5=6732b1c6207e4a9a3e2987c88368039a
 BUILDDEPS=perl
 INSTALLDEPS=perl
 OPTIONS=bootstrap|release
